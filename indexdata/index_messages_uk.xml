@@ -9,19 +9,39 @@
 
 
 
-  <data name="uk_pano338_title"><![CDATA[bmv]]></data>
-
-
   <data name="uk_pano340_title"><![CDATA[general]]></data>
+  <data name="uk_spotpolygon348_tooltip"><![CDATA[bugatti]]></data>
+  <data name="uk_spotpolygon349_tooltip"><![CDATA[bmv]]></data>
+  <data name="uk_spotpolygon350_tooltip"><![CDATA[jeep]]></data>
+  <data name="uk_spotpolygon351_tooltip"><![CDATA[chevrolet]]></data>
 
 
   <data name="uk_pano342_title"><![CDATA[bugatti]]></data>
+  <data name="uk_spotpolygon352_tooltip"><![CDATA[general]]></data>
+  <data name="uk_spotpolygon353_tooltip"><![CDATA[chevrolet]]></data>
+  <data name="uk_spotpolygon354_tooltip"><![CDATA[jeep]]></data>
+  <data name="uk_spotpolygon355_tooltip"><![CDATA[bmv]]></data>
+
+
+  <data name="uk_pano338_title"><![CDATA[bmv]]></data>
+  <data name="uk_spotpolygon356_tooltip"><![CDATA[bugatti]]></data>
+  <data name="uk_spotpolygon357_tooltip"><![CDATA[general]]></data>
+  <data name="uk_spotpolygon358_tooltip"><![CDATA[jeep]]></data>
+  <data name="uk_spotpolygon359_tooltip"><![CDATA[chevrolet]]></data>
 
 
   <data name="uk_pano344_title"><![CDATA[jeep]]></data>
+  <data name="uk_spotpolygon360_tooltip"><![CDATA[general]]></data>
+  <data name="uk_spotpolygon361_tooltip"><![CDATA[chevrolet]]></data>
+  <data name="uk_spotpolygon362_tooltip"><![CDATA[bmv]]></data>
+  <data name="uk_spotpolygon363_tooltip"><![CDATA[bugatti]]></data>
 
 
   <data name="uk_pano346_title"><![CDATA[chevrolet]]></data>
+  <data name="uk_spotpolygon364_tooltip"><![CDATA[general]]></data>
+  <data name="uk_spotpolygon365_tooltip"><![CDATA[jeep]]></data>
+  <data name="uk_spotpolygon366_tooltip"><![CDATA[bmv]]></data>
+  <data name="uk_spotpolygon367_tooltip"><![CDATA[bugatti]]></data>
 
 
 
