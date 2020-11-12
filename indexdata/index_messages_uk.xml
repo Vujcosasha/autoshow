@@ -21,6 +21,7 @@
   <data name="uk_spotpolygon353_tooltip"><![CDATA[chevrolet]]></data>
   <data name="uk_spotpolygon354_tooltip"><![CDATA[jeep]]></data>
   <data name="uk_spotpolygon355_tooltip"><![CDATA[bmv]]></data>
+  <data name="uk_spotpolygon376_tooltip"><![CDATA[scrbugatti]]></data>
 
 
   <data name="uk_pano338_title"><![CDATA[bmv]]></data>
@@ -42,6 +43,9 @@
   <data name="uk_spotpolygon365_tooltip"><![CDATA[jeep]]></data>
   <data name="uk_spotpolygon366_tooltip"><![CDATA[bmv]]></data>
   <data name="uk_spotpolygon367_tooltip"><![CDATA[bugatti]]></data>
+
+
+  <data name="uk_pano374_title"><![CDATA[scrbugatti]]></data>
 
 
 
@@ -106,6 +110,9 @@
   <data name="uk_vr_setup_cb7"><![CDATA[Successful calibration]]></data>
   <data name="uk_vr_setup_cb8"><![CDATA[Calibration failed]]></data>
   <data name="uk_vr_setup_unavailable"><![CDATA[VR mode[br]is unavailable on your device]]></data>
+
+
+
 
 
 
