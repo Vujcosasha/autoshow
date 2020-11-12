@@ -9,39 +9,19 @@
 
 
 
-  <data name="uk_pano75_title"><![CDATA[general view]]></data>
-  <data name="uk_spotpolygon242_tooltip"><![CDATA[_BUGATTI_]]></data>
-  <data name="uk_spotpolygon243_tooltip"><![CDATA[_BMW_]]></data>
-  <data name="uk_spotpolygon319_tooltip"><![CDATA[_Jeep_]]></data>
-  <data name="uk_spotpolygon320_tooltip"><![CDATA[_Chevrolet_]]></data>
+  <data name="uk_pano338_title"><![CDATA[bmv]]></data>
 
 
-  <data name="uk_pano67_title"><![CDATA[_Chevrolet_]]></data>
-  <data name="uk_spotpolygon334_tooltip"><![CDATA[general view]]></data>
-  <data name="uk_spotpolygon335_tooltip"><![CDATA[_Jeep_]]></data>
-  <data name="uk_spotpolygon336_tooltip"><![CDATA[_BUGATTI_]]></data>
-  <data name="uk_spotpolygon337_tooltip"><![CDATA[_BMW_]]></data>
+  <data name="uk_pano340_title"><![CDATA[general]]></data>
 
 
-  <data name="uk_pano69_title"><![CDATA[_BMW_]]></data>
-  <data name="uk_spotpolygon326_tooltip"><![CDATA[_BUGATTI_]]></data>
-  <data name="uk_spotpolygon327_tooltip"><![CDATA[general view]]></data>
-  <data name="uk_spotpolygon328_tooltip"><![CDATA[_Jeep_]]></data>
-  <data name="uk_spotpolygon329_tooltip"><![CDATA[_Chevrolet_]]></data>
+  <data name="uk_pano342_title"><![CDATA[bugatti]]></data>
 
 
-  <data name="uk_pano71_title"><![CDATA[_BUGATTI_]]></data>
-  <data name="uk_spotpolygon321_tooltip"><![CDATA[general view]]></data>
-  <data name="uk_spotpolygon322_tooltip"><![CDATA[_BMW_]]></data>
-  <data name="uk_spotpolygon323_tooltip"><![CDATA[_Jeep_]]></data>
-  <data name="uk_spotpolygon325_tooltip"><![CDATA[_Chevrolet_]]></data>
+  <data name="uk_pano344_title"><![CDATA[jeep]]></data>
 
 
-  <data name="uk_pano73_title"><![CDATA[_Jeep_]]></data>
-  <data name="uk_spotpolygon330_tooltip"><![CDATA[general view]]></data>
-  <data name="uk_spotpolygon331_tooltip"><![CDATA[_Chevrolet_]]></data>
-  <data name="uk_spotpolygon332_tooltip"><![CDATA[_BMW_]]></data>
-  <data name="uk_spotpolygon333_tooltip"><![CDATA[_BUGATTI_]]></data>
+  <data name="uk_pano346_title"><![CDATA[chevrolet]]></data>
 
 
 
