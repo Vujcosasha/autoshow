@@ -9,43 +9,22 @@
 
 
 
-  <data name="uk_pano340_title"><![CDATA[general]]></data>
-  <data name="uk_spotpolygon348_tooltip"><![CDATA[bugatti]]></data>
-  <data name="uk_spotpolygon349_tooltip"><![CDATA[bmv]]></data>
-  <data name="uk_spotpolygon350_tooltip"><![CDATA[jeep]]></data>
-  <data name="uk_spotpolygon351_tooltip"><![CDATA[chevrolet]]></data>
+  <data name="uk_pano10_title"><![CDATA[general]]></data>
 
 
-  <data name="uk_pano342_title"><![CDATA[bugatti]]></data>
-  <data name="uk_spotpolygon352_tooltip"><![CDATA[general]]></data>
-  <data name="uk_spotpolygon353_tooltip"><![CDATA[chevrolet]]></data>
-  <data name="uk_spotpolygon354_tooltip"><![CDATA[jeep]]></data>
-  <data name="uk_spotpolygon355_tooltip"><![CDATA[bmv]]></data>
-  <data name="uk_spotpolygon376_tooltip"><![CDATA[scrbugatti]]></data>
+  <data name="uk_pano12_title"><![CDATA[bugatti]]></data>
 
 
-  <data name="uk_pano338_title"><![CDATA[bmv]]></data>
-  <data name="uk_spotpolygon356_tooltip"><![CDATA[bugatti]]></data>
-  <data name="uk_spotpolygon357_tooltip"><![CDATA[general]]></data>
-  <data name="uk_spotpolygon358_tooltip"><![CDATA[jeep]]></data>
-  <data name="uk_spotpolygon359_tooltip"><![CDATA[chevrolet]]></data>
+  <data name="uk_pano14_title"><![CDATA[chevrolet]]></data>
 
 
-  <data name="uk_pano344_title"><![CDATA[jeep]]></data>
-  <data name="uk_spotpolygon360_tooltip"><![CDATA[general]]></data>
-  <data name="uk_spotpolygon361_tooltip"><![CDATA[chevrolet]]></data>
-  <data name="uk_spotpolygon362_tooltip"><![CDATA[bmv]]></data>
-  <data name="uk_spotpolygon363_tooltip"><![CDATA[bugatti]]></data>
+  <data name="uk_pano16_title"><![CDATA[bmv]]></data>
 
 
-  <data name="uk_pano346_title"><![CDATA[chevrolet]]></data>
-  <data name="uk_spotpolygon364_tooltip"><![CDATA[general]]></data>
-  <data name="uk_spotpolygon365_tooltip"><![CDATA[jeep]]></data>
-  <data name="uk_spotpolygon366_tooltip"><![CDATA[bmv]]></data>
-  <data name="uk_spotpolygon367_tooltip"><![CDATA[bugatti]]></data>
+  <data name="uk_pano18_title"><![CDATA[jeep]]></data>
 
 
-  <data name="uk_pano374_title"><![CDATA[scrbugatti]]></data>
+  <data name="uk_pano25_title"><![CDATA[scrbugatti]]></data>
 
 
 
@@ -57,21 +36,15 @@
   <data name="uk_contextmenunormallabel"><![CDATA[Normal View]]></data>
   <data name="uk_contextmenuarchitecturallabel"><![CDATA[Architectural View]]></data>
   <data name="uk_contextmenulittleplanetlabel"><![CDATA[Little Planet View]]></data>
-  <data name="uk_controlBar_dockedThumbnailszoomInTip"><![CDATA[Zoom in]]></data>
-  <data name="uk_controlBar_dockedThumbnailszoomOutTip"><![CDATA[Zoom out]]></data>
-  <data name="uk_controlBar_dockedThumbnailsmoveLeftTip"><![CDATA[Move left]]></data>
-  <data name="uk_controlBar_dockedThumbnailsmoveRightTip"><![CDATA[Move right]]></data>
-  <data name="uk_controlBar_dockedThumbnailsmoveUpTip"><![CDATA[Move up]]></data>
-  <data name="uk_controlBar_dockedThumbnailsmoveDownTip"><![CDATA[Move down]]></data>
   <data name="uk_controlBar_dockedThumbnailsopenFsTip"><![CDATA[Enter fullscreen]]></data>
   <data name="uk_controlBar_dockedThumbnailscloseFsTip"><![CDATA[Exit fullscreen]]></data>
-  <data name="uk_controlBar_dockedThumbnailsautorotateOnTip"><![CDATA[Start autorotation]]></data>
-  <data name="uk_controlBar_dockedThumbnailsautorotateOffTip"><![CDATA[Stop autorotation]]></data>
+  <data name="uk_controlBar_dockedThumbnailsautotourOnTip"><![CDATA[Start automatic tour]]></data>
+  <data name="uk_controlBar_dockedThumbnailsautotourOffTip"><![CDATA[Stop automatic tour]]></data>
   <data name="uk_controlBar_dockedThumbnailsgyroOnTip"><![CDATA[Enable gyroscope]]></data>
   <data name="uk_controlBar_dockedThumbnailsgyroOffTip"><![CDATA[Disable gyroscope]]></data>
   <data name="uk_controlBar_dockedThumbnailsgyroNotTip"><![CDATA[Gyroscope is unavailable]]></data>
-  <data name="uk_controlBar_dockedThumbnailsdisplayHelpTip"><![CDATA[Show help screen]]></data>
-  <data name="uk_controlBar_dockedThumbnailshideHelpTip"><![CDATA[Hide help screen]]></data>
+  <data name="uk_controlBar_dockedThumbnailsenterVRTip"><![CDATA[VR mode]]></data>
+  <data name="uk_controlBar_dockedThumbnailsenterVRNotTip"><![CDATA[VR mode is unavailable]]></data>
   <data name="uk_controlBar_dockedThumbnailsdisplayControlsTip"><![CDATA[Show controls]]></data>
   <data name="uk_controlBar_dockedThumbnailshideControlsTip"><![CDATA[Hide controls]]></data>
   <data name="uk_controlBar_dockedThumbnailsctrlmodeDragTip"><![CDATA[Change control mode]]></data>
